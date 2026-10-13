@@ -1,0 +1,2758 @@
+{
+  "1": [
+    {
+      "han": "不客气",
+      "pinyin": "bu2ke4qi5",
+      "vi": [
+        "Không có gì"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "大家",
+      "pinyin": "da4jia1",
+      "vi": [
+        "Mọi người"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "老师",
+      "pinyin": "lao3shi1",
+      "vi": [
+        "Giáo viên",
+        "thầy cô",
+        "thầy giáo",
+        "cô giáo"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "们",
+      "pinyin": "men5",
+      "vi": [
+        "Hậu tố số nhiều"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "你好",
+      "pinyin": "ni3hao3",
+      "vi": [
+        "Xin chào",
+        "chào bạn"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "你们",
+      "pinyin": "ni3men5",
+      "vi": [
+        "Các bạn"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "您",
+      "pinyin": "nin2",
+      "vi": [
+        "Ngài",
+        "ông",
+        "bà"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "同学",
+      "pinyin": "tong2xue2",
+      "vi": [
+        "Bạn học"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "谢谢",
+      "pinyin": "xie4xie5",
+      "vi": [
+        "Cảm ơn"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "王老师",
+      "pinyin": "wang2lao3shi1",
+      "vi": [
+        "Thầy Vương"
+      ],
+      "enabled": true
+    }
+  ],
+  "2": [
+    {
+      "han": "不",
+      "pinyin": "bu4",
+      "vi": [
+        "Không"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "对不起",
+      "pinyin": "dui4bu5qi3",
+      "vi": [
+        "Xin lỗi"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "高兴",
+      "pinyin": "gao1xing4",
+      "vi": [
+        "Vui vẻ",
+        "vui"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "叫",
+      "pinyin": "jiao4",
+      "vi": [
+        "Gọi",
+        "tên là"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "没关系",
+      "pinyin": "mei2guan1xi5",
+      "vi": [
+        "Không sao",
+        "không có gì"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "没事",
+      "pinyin": "mei2shi4",
+      "vi": [
+        "Không có gì",
+        "không sao"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "名字",
+      "pinyin": "ming2zi5",
+      "vi": [
+        "Tên"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "你",
+      "pinyin": "ni3",
+      "vi": [
+        "Bạn"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "请问",
+      "pinyin": "qing3wen4",
+      "vi": [
+        "Xin hỏi"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "认识",
+      "pinyin": "ren4shi5",
+      "vi": [
+        "Quen biết",
+        "biết"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "是",
+      "pinyin": "shi4",
+      "vi": [
+        "Là"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "什么",
+      "pinyin": "shen2me5",
+      "vi": [
+        "Cái gì"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "他",
+      "pinyin": "ta1",
+      "vi": [
+        "Anh ấy"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "我",
+      "pinyin": "wo3",
+      "vi": [
+        "Tôi"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "也",
+      "pinyin": "ye3",
+      "vi": [
+        "Cũng"
+      ],
+      "enabled": true
+    }
+  ],
+  "3": [
+    {
+      "han": "的",
+      "pinyin": "de5",
+      "vi": [
+        "Trợ từ sở hữu"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "国",
+      "pinyin": "guo2",
+      "vi": [
+        "Nước",
+        "quốc gia"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "还",
+      "pinyin": "hai2",
+      "vi": [
+        "Còn",
+        "vẫn"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "姐姐",
+      "pinyin": "jie3jie5",
+      "vi": [
+        "Chị gái"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "吗",
+      "pinyin": "ma5",
+      "vi": [
+        "Trợ từ nghi vấn"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "忙",
+      "pinyin": "mang2",
+      "vi": [
+        "Bận"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "女朋友",
+      "pinyin": "nv3peng2you5",
+      "vi": [
+        "Bạn gái"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "人",
+      "pinyin": "ren2",
+      "vi": [
+        "Người"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "她",
+      "pinyin": "ta1",
+      "vi": [
+        "Cô ấy"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "太",
+      "pinyin": "tai4",
+      "vi": [
+        "Quá"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "喂",
+      "pinyin": "wei4",
+      "vi": [
+        "A lô",
+        "alô"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "想",
+      "pinyin": "xiang3",
+      "vi": [
+        "Muốn",
+        "nhớ"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "谁",
+      "pinyin": "shei2",
+      "vi": [
+        "Ai"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "这",
+      "pinyin": "zhe4",
+      "vi": [
+        "Đây",
+        "này"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "工作",
+      "pinyin": "gong1zuo4",
+      "vi": [
+        "Công việc",
+        "làm việc"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "对",
+      "pinyin": "dui4",
+      "vi": [
+        "Đúng",
+        "đối với"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "法国",
+      "pinyin": "fa3guo2",
+      "vi": [
+        "Pháp"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "泰国",
+      "pinyin": "tai4guo2",
+      "vi": [
+        "Thái Lan"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "中国",
+      "pinyin": "zhong1guo2",
+      "vi": [
+        "Trung Quốc"
+      ],
+      "enabled": true
+    }
+  ],
+  "4": [
+    {
+      "han": "八",
+      "pinyin": "ba1",
+      "vi": [
+        "Tám"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "爸爸",
+      "pinyin": "ba4ba5",
+      "vi": [
+        "Bố",
+        "ba"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "百",
+      "pinyin": "bai3",
+      "vi": [
+        "Trăm"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "弟弟",
+      "pinyin": "di4di5",
+      "vi": [
+        "Em trai"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "儿子",
+      "pinyin": "er2zi5",
+      "vi": [
+        "Con trai"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "二",
+      "pinyin": "er4",
+      "vi": [
+        "Hai"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "哥哥",
+      "pinyin": "ge1ge5",
+      "vi": [
+        "Anh trai"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "个",
+      "pinyin": "ge4",
+      "vi": [
+        "Lượng từ"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "孩子",
+      "pinyin": "hai2zi5",
+      "vi": [
+        "Con",
+        "trẻ con"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "几",
+      "pinyin": "ji3",
+      "vi": [
+        "Mấy"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "家",
+      "pinyin": "jia1",
+      "vi": [
+        "Nhà",
+        "gia đình"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "今年",
+      "pinyin": "jin1nian2",
+      "vi": [
+        "Năm nay"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "九",
+      "pinyin": "jiu3",
+      "vi": [
+        "Chín"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "口",
+      "pinyin": "kou3",
+      "vi": [
+        "Lượng từ cho người trong gia đình"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "两",
+      "pinyin": "liang3",
+      "vi": [
+        "Hai"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "零",
+      "pinyin": "ling2",
+      "vi": [
+        "Số không",
+        "không"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "六",
+      "pinyin": "liu4",
+      "vi": [
+        "Sáu"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "妈妈",
+      "pinyin": "ma1ma5",
+      "vi": [
+        "Mẹ"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "妹妹",
+      "pinyin": "mei4mei5",
+      "vi": [
+        "Em gái"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "没有",
+      "pinyin": "mei2you3",
+      "vi": [
+        "Không có"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "女儿",
+      "pinyin": "nv3er2",
+      "vi": [
+        "Con gái"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "七",
+      "pinyin": "qi1",
+      "vi": [
+        "Bảy"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "千",
+      "pinyin": "qian1",
+      "vi": [
+        "Nghìn",
+        "ngàn"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "三",
+      "pinyin": "san1",
+      "vi": [
+        "Ba"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "十",
+      "pinyin": "shi2",
+      "vi": [
+        "Mười"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "四",
+      "pinyin": "si4",
+      "vi": [
+        "Bốn"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "岁",
+      "pinyin": "sui4",
+      "vi": [
+        "Tuổi"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "五",
+      "pinyin": "wu3",
+      "vi": [
+        "Năm"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "一",
+      "pinyin": "yi1",
+      "vi": [
+        "Một"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "有",
+      "pinyin": "you3",
+      "vi": [
+        "Có"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "和",
+      "pinyin": "he2",
+      "vi": [
+        "Và"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "多",
+      "pinyin": "duo1",
+      "vi": [
+        "Nhiều"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "大",
+      "pinyin": "da4",
+      "vi": [
+        "To",
+        "lớn"
+      ],
+      "enabled": true
+    }
+  ],
+  "5": [
+    {
+      "han": "菜",
+      "pinyin": "cai4",
+      "vi": [
+        "Món ăn",
+        "rau"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "电脑",
+      "pinyin": "dian4nao3",
+      "vi": [
+        "Máy tính"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "好吃",
+      "pinyin": "hao3chi1",
+      "vi": [
+        "Ngon"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "好看",
+      "pinyin": "hao3kan4",
+      "vi": [
+        "Đẹp"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "会",
+      "pinyin": "hui4",
+      "vi": [
+        "Biết",
+        "có thể"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "饺子",
+      "pinyin": "jiao3zi5",
+      "vi": [
+        "Bánh chẻo"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "今天",
+      "pinyin": "jin1tian1",
+      "vi": [
+        "Hôm nay"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "面条儿",
+      "pinyin": "mian4tiao2r5",
+      "vi": [
+        "Mì sợi"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "日",
+      "pinyin": "ri4",
+      "vi": [
+        "Ngày"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "它",
+      "pinyin": "ta1",
+      "vi": [
+        "Nó"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "下班",
+      "pinyin": "xia4ban1",
+      "vi": [
+        "Tan làm"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "新",
+      "pinyin": "xin1",
+      "vi": [
+        "Mới"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "星期",
+      "pinyin": "xing1qi1",
+      "vi": [
+        "Tuần"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "星期日",
+      "pinyin": "xing1qi1ri4",
+      "vi": [
+        "Chủ nhật"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "星期天",
+      "pinyin": "xing1qi1tian1",
+      "vi": [
+        "Chủ nhật"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "休息",
+      "pinyin": "xiu1xi5",
+      "vi": [
+        "Nghỉ ngơi"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "一些",
+      "pinyin": "yi4xie1",
+      "vi": [
+        "Một số"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "真",
+      "pinyin": "zhen1",
+      "vi": [
+        "Thật"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "喜欢",
+      "pinyin": "xi3huan5",
+      "vi": [
+        "Thích"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "做",
+      "pinyin": "zuo4",
+      "vi": [
+        "Làm"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "做饭",
+      "pinyin": "zuo4fan4",
+      "vi": [
+        "Nấu ăn"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "号",
+      "pinyin": "hao4",
+      "vi": [
+        "Ngày",
+        "số"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "月",
+      "pinyin": "yue4",
+      "vi": [
+        "Tháng"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "坐",
+      "pinyin": "zuo4",
+      "vi": [
+        "Ngồi"
+      ],
+      "enabled": true
+    }
+  ],
+  "6": [
+    {
+      "han": "包子",
+      "pinyin": "bao1zi5",
+      "vi": [
+        "Bánh bao"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "超市",
+      "pinyin": "chao1shi4",
+      "vi": [
+        "Siêu thị"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "吃",
+      "pinyin": "chi1",
+      "vi": [
+        "Ăn"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "出租车",
+      "pinyin": "chu1zu1che1",
+      "vi": [
+        "Taxi"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "打电话",
+      "pinyin": "da3dian4hua4",
+      "vi": [
+        "Gọi điện"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "东西",
+      "pinyin": "dong1xi5",
+      "vi": [
+        "Đồ vật"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "电话",
+      "pinyin": "dian4hua4",
+      "vi": [
+        "Điện thoại"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "饭",
+      "pinyin": "fan4",
+      "vi": [
+        "Cơm"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "饭店",
+      "pinyin": "fan4dian4",
+      "vi": [
+        "Nhà hàng",
+        "khách sạn"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "好吃",
+      "pinyin": "hao3chi1",
+      "vi": [
+        "Ngon"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "买",
+      "pinyin": "mai3",
+      "vi": [
+        "Mua"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "米饭",
+      "pinyin": "mi3fan4",
+      "vi": [
+        "Cơm"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "哪儿",
+      "pinyin": "na3r5",
+      "vi": [
+        "Ở đâu"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "那边",
+      "pinyin": "na4bian1",
+      "vi": [
+        "Bên kia"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "能",
+      "pinyin": "neng2",
+      "vi": [
+        "Có thể"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "牛奶",
+      "pinyin": "niu2nai3",
+      "vi": [
+        "Sữa"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "去",
+      "pinyin": "qu4",
+      "vi": [
+        "Đi"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "手机",
+      "pinyin": "shou3ji1",
+      "vi": [
+        "Điện thoại di động"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "晚饭",
+      "pinyin": "wan3fan4",
+      "vi": [
+        "Cơm tối"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "怎么",
+      "pinyin": "zen3me5",
+      "vi": [
+        "Như thế nào"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "些",
+      "pinyin": "xie1",
+      "vi": [
+        "Một vài"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "非常",
+      "pinyin": "fei1chang2",
+      "vi": [
+        "Vô cùng"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "西安饭店",
+      "pinyin": "xi1an1fan4dian4",
+      "vi": [
+        "Nhà hàng Tây An"
+      ],
+      "enabled": true
+    }
+  ],
+  "7": [
+    {
+      "han": "半",
+      "pinyin": "ban4",
+      "vi": [
+        "Một nửa"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "吧",
+      "pinyin": "ba5",
+      "vi": [
+        "Trợ từ đề nghị"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "点",
+      "pinyin": "dian3",
+      "vi": [
+        "Giờ"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "电影院",
+      "pinyin": "dian4ying3yuan4",
+      "vi": [
+        "Rạp chiếu phim"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "分",
+      "pinyin": "fen1",
+      "vi": [
+        "Phút"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "分钟",
+      "pinyin": "fen1zhong1",
+      "vi": [
+        "Phút"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "后",
+      "pinyin": "hou4",
+      "vi": [
+        "Sau"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "见",
+      "pinyin": "jian4",
+      "vi": [
+        "Gặp"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "课",
+      "pinyin": "ke4",
+      "vi": [
+        "Bài học"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "里",
+      "pinyin": "li3",
+      "vi": [
+        "Trong"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "呢",
+      "pinyin": "ne5",
+      "vi": [
+        "Trợ từ nghi vấn"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "上班",
+      "pinyin": "shang4ban1",
+      "vi": [
+        "Đi làm"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "上课",
+      "pinyin": "shang4ke4",
+      "vi": [
+        "Lên lớp"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "上午",
+      "pinyin": "shang4wu3",
+      "vi": [
+        "Buổi sáng"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "事",
+      "pinyin": "shi4",
+      "vi": [
+        "Việc"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "下课",
+      "pinyin": "xia4ke4",
+      "vi": [
+        "Tan học"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "下午",
+      "pinyin": "xia4wu3",
+      "vi": [
+        "Buổi chiều"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "现在",
+      "pinyin": "xian4zai4",
+      "vi": [
+        "Bây giờ"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "在",
+      "pinyin": "zai4",
+      "vi": [
+        "Ở",
+        "tại"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "早上",
+      "pinyin": "zao3shang5",
+      "vi": [
+        "Buổi sáng"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "晚上",
+      "pinyin": "wan3shang5",
+      "vi": [
+        "Buổi tối"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "医院",
+      "pinyin": "yi1yuan4",
+      "vi": [
+        "Bệnh viện"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "店",
+      "pinyin": "dian4",
+      "vi": [
+        "Cửa hàng"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "电影",
+      "pinyin": "dian4ying3",
+      "vi": [
+        "Phim"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "看",
+      "pinyin": "kan4",
+      "vi": [
+        "Xem",
+        "nhìn"
+      ],
+      "enabled": true
+    }
+  ],
+  "8": [
+    {
+      "han": "病人",
+      "pinyin": "bing4ren2",
+      "vi": [
+        "Bệnh nhân"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "到",
+      "pinyin": "dao4",
+      "vi": [
+        "Đến"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "房间",
+      "pinyin": "fang2jian1",
+      "vi": [
+        "Phòng"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "工作",
+      "pinyin": "gong1zuo4",
+      "vi": [
+        "Công việc",
+        "làm việc"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "看见",
+      "pinyin": "kan4jian4",
+      "vi": [
+        "Nhìn thấy"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "猫",
+      "pinyin": "mao1",
+      "vi": [
+        "Mèo"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "没",
+      "pinyin": "mei2",
+      "vi": [
+        "Không"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "前",
+      "pinyin": "qian2",
+      "vi": [
+        "Trước"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "漂亮",
+      "pinyin": "piao4liang5",
+      "vi": [
+        "Xinh đẹp"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "书店",
+      "pinyin": "shu1dian4",
+      "vi": [
+        "Hiệu sách"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "午饭",
+      "pinyin": "wu3fan4",
+      "vi": [
+        "Cơm trưa"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "下",
+      "pinyin": "xia4",
+      "vi": [
+        "Dưới"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "小",
+      "pinyin": "xiao3",
+      "vi": [
+        "Nhỏ"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "学校",
+      "pinyin": "xue2xiao4",
+      "vi": [
+        "Trường học"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "医生",
+      "pinyin": "yi1sheng1",
+      "vi": [
+        "Bác sĩ"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "只",
+      "pinyin": "zhi1",
+      "vi": [
+        "Lượng từ cho động vật"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "桌子",
+      "pinyin": "zhuo1zi5",
+      "vi": [
+        "Cái bàn"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "饭",
+      "pinyin": "fan4",
+      "vi": [
+        "Cơm"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "大",
+      "pinyin": "da4",
+      "vi": [
+        "To"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "多",
+      "pinyin": "duo1",
+      "vi": [
+        "Nhiều"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "外",
+      "pinyin": "wai4",
+      "vi": [
+        "Ngoài"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "胡医生",
+      "pinyin": "hu2yi1sheng1",
+      "vi": [
+        "Bác sĩ Hồ"
+      ],
+      "enabled": true
+    }
+  ],
+  "9": [
+    {
+      "han": "白天",
+      "pinyin": "bai2tian1",
+      "vi": [
+        "Ban ngày"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "本",
+      "pinyin": "ben3",
+      "vi": [
+        "Lượng từ cho sách"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "边",
+      "pinyin": "bian1",
+      "vi": [
+        "Bên",
+        "cạnh"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "唱",
+      "pinyin": "chang4",
+      "vi": [
+        "Hát"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "读书",
+      "pinyin": "du2shu1",
+      "vi": [
+        "Đọc sách"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "狗",
+      "pinyin": "gou3",
+      "vi": [
+        "Con chó",
+        "chó"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "和",
+      "pinyin": "he2",
+      "vi": [
+        "Và"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "好听",
+      "pinyin": "hao3ting1",
+      "vi": [
+        "Hay"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "家",
+      "pinyin": "jia1",
+      "vi": [
+        "Nhà"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "那个",
+      "pinyin": "na4ge5",
+      "vi": [
+        "Cái đó"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "那",
+      "pinyin": "na4",
+      "vi": [
+        "Đó"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "前边",
+      "pinyin": "qian2bian5",
+      "vi": [
+        "Phía trước"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "上",
+      "pinyin": "shang4",
+      "vi": [
+        "Trên"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "书",
+      "pinyin": "shu1",
+      "vi": [
+        "Sách"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "外边",
+      "pinyin": "wai4bian5",
+      "vi": [
+        "Bên ngoài"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "玩",
+      "pinyin": "wan2",
+      "vi": [
+        "Chơi"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "朋友",
+      "pinyin": "peng2you5",
+      "vi": [
+        "Bạn bè"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "电视",
+      "pinyin": "dian4shi4",
+      "vi": [
+        "Tivi"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "第",
+      "pinyin": "di4",
+      "vi": [
+        "Thứ"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "学习",
+      "pinyin": "xue2xi2",
+      "vi": [
+        "Học tập"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "做",
+      "pinyin": "zuo4",
+      "vi": [
+        "Làm"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "椅子",
+      "pinyin": "yi3zi5",
+      "vi": [
+        "Cái ghế"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "那儿",
+      "pinyin": "na4r5",
+      "vi": [
+        "Ở đó"
+      ],
+      "enabled": true
+    }
+  ],
+  "10": [
+    {
+      "han": "杯子",
+      "pinyin": "bei1zi5",
+      "vi": [
+        "Cái cốc"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "这边",
+      "pinyin": "zhe4bian1",
+      "vi": [
+        "Bên này"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "售货员",
+      "pinyin": "shou4huo4yuan2",
+      "vi": [
+        "Nhân viên bán hàng"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "钱",
+      "pinyin": "qian2",
+      "vi": [
+        "Tiền"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "块",
+      "pinyin": "kuai4",
+      "vi": [
+        "Đồng"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "这些",
+      "pinyin": "zhe4xie1",
+      "vi": [
+        "Những cái này"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "那些",
+      "pinyin": "na4xie1",
+      "vi": [
+        "Những cái kia"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "这儿",
+      "pinyin": "zhe4r5",
+      "vi": [
+        "Ở đây"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "水果",
+      "pinyin": "shui3guo3",
+      "vi": [
+        "Hoa quả"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "少",
+      "pinyin": "shao3",
+      "vi": [
+        "Ít"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "苹果",
+      "pinyin": "ping2guo3",
+      "vi": [
+        "Táo"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "斤",
+      "pinyin": "jin1",
+      "vi": [
+        "Cân"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "便宜",
+      "pinyin": "pian2yi5",
+      "vi": [
+        "Rẻ"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "商店",
+      "pinyin": "shang1dian4",
+      "vi": [
+        "Cửa hàng"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "衣服",
+      "pinyin": "yi1fu5",
+      "vi": [
+        "Quần áo"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "件",
+      "pinyin": "jian4",
+      "vi": [
+        "Lượng từ cho áo"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "元",
+      "pinyin": "yuan2",
+      "vi": [
+        "Đồng"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "怎么样",
+      "pinyin": "zen3me5yang4",
+      "vi": [
+        "Thế nào"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "贵",
+      "pinyin": "gui4",
+      "vi": [
+        "Đắt"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "穿",
+      "pinyin": "chuan1",
+      "vi": [
+        "Mặc"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "女",
+      "pinyin": "nv3",
+      "vi": [
+        "Nữ"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "男",
+      "pinyin": "nan2",
+      "vi": [
+        "Nam"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "那儿",
+      "pinyin": "na4r5",
+      "vi": [
+        "Ở đó"
+      ],
+      "enabled": true
+    }
+  ],
+  "11": [
+    {
+      "han": "车",
+      "pinyin": "che1",
+      "vi": [
+        "Xe"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "开车",
+      "pinyin": "kai1che1",
+      "vi": [
+        "Lái xe"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "时候",
+      "pinyin": "shi2hou5",
+      "vi": [
+        "Lúc",
+        "khi"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "知道",
+      "pinyin": "zhi1dao4",
+      "vi": [
+        "Biết"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "找",
+      "pinyin": "zhao3",
+      "vi": [
+        "Tìm"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "正在",
+      "pinyin": "zheng4zai4",
+      "vi": [
+        "Đang"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "学",
+      "pinyin": "xue2",
+      "vi": [
+        "Học"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "医",
+      "pinyin": "yi1",
+      "vi": [
+        "Y",
+        "y học"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "读",
+      "pinyin": "du2",
+      "vi": [
+        "Đọc"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "大学",
+      "pinyin": "da4xue2",
+      "vi": [
+        "Đại học"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "大学生",
+      "pinyin": "da4xue2sheng1",
+      "vi": [
+        "Sinh viên đại học"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "起床",
+      "pinyin": "qi3chuang2",
+      "vi": [
+        "Thức dậy"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "睡",
+      "pinyin": "shui4",
+      "vi": [
+        "Ngủ"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "睡觉",
+      "pinyin": "shui4jiao4",
+      "vi": [
+        "Ngủ"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "哪里",
+      "pinyin": "na3li3",
+      "vi": [
+        "Ở đâu"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "那里",
+      "pinyin": "na4li3",
+      "vi": [
+        "Ở đó"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "昨天",
+      "pinyin": "zuo2tian1",
+      "vi": [
+        "Hôm qua"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "说",
+      "pinyin": "shuo1",
+      "vi": [
+        "Nói"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "问",
+      "pinyin": "wen4",
+      "vi": [
+        "Hỏi"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "要",
+      "pinyin": "yao4",
+      "vi": [
+        "Muốn",
+        "cần"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "小朋友",
+      "pinyin": "xiao3peng2you5",
+      "vi": [
+        "Các bạn nhỏ"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "在",
+      "pinyin": "zai4",
+      "vi": [
+        "Ở",
+        "tại"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "对",
+      "pinyin": "dui4",
+      "vi": [
+        "Đúng"
+      ],
+      "enabled": true
+    }
+  ],
+  "12": [
+    {
+      "han": "天",
+      "pinyin": "tian1",
+      "vi": [
+        "Trời",
+        "ngày"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "天气",
+      "pinyin": "tian1qi4",
+      "vi": [
+        "Thời tiết"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "这里",
+      "pinyin": "zhe4li3",
+      "vi": [
+        "Ở đây"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "下雨",
+      "pinyin": "xia4yu3",
+      "vi": [
+        "Mưa"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "了",
+      "pinyin": "le5",
+      "vi": [
+        "Trợ từ"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "雨",
+      "pinyin": "yu3",
+      "vi": [
+        "Mưa"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "有点儿",
+      "pinyin": "you3dian3r5",
+      "vi": [
+        "Hơi"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "觉得",
+      "pinyin": "jue2de5",
+      "vi": [
+        "Cảm thấy"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "冷",
+      "pinyin": "leng3",
+      "vi": [
+        "Lạnh"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "下",
+      "pinyin": "xia4",
+      "vi": [
+        "Rơi",
+        "xuống"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "雪",
+      "pinyin": "xue3",
+      "vi": [
+        "Tuyết"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "来",
+      "pinyin": "lai2",
+      "vi": [
+        "Đến"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "公司",
+      "pinyin": "gong1si1",
+      "vi": [
+        "Công ty"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "生病",
+      "pinyin": "sheng1bing4",
+      "vi": [
+        "Bị ốm"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "看病",
+      "pinyin": "kan4bing4",
+      "vi": [
+        "Khám bệnh"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "病",
+      "pinyin": "bing4",
+      "vi": [
+        "Bệnh"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "一点儿",
+      "pinyin": "yi4dian3r5",
+      "vi": [
+        "Một chút"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "药",
+      "pinyin": "yao4",
+      "vi": [
+        "Thuốc"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "回",
+      "pinyin": "hui2",
+      "vi": [
+        "Về"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "再",
+      "pinyin": "zai4",
+      "vi": [
+        "Lại"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "喝",
+      "pinyin": "he1",
+      "vi": [
+        "Uống"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "水",
+      "pinyin": "shui3",
+      "vi": [
+        "Nước"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "热",
+      "pinyin": "re4",
+      "vi": [
+        "Nóng"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "下",
+      "pinyin": "xia4",
+      "vi": [
+        "Lượng từ lần"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "在",
+      "pinyin": "zai4",
+      "vi": [
+        "Ở",
+        "tại"
+      ],
+      "enabled": true
+    }
+  ],
+  "13": [
+    {
+      "han": "可以",
+      "pinyin": "ke3yi3",
+      "vi": [
+        "Có thể"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "再",
+      "pinyin": "zai4",
+      "vi": [
+        "Lại"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "一下",
+      "pinyin": "yi2xia4",
+      "vi": [
+        "Một chút"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "问题",
+      "pinyin": "wen4ti2",
+      "vi": [
+        "Vấn đề"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "卖",
+      "pinyin": "mai4",
+      "vi": [
+        "Bán"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "打电话",
+      "pinyin": "da3dian4hua4",
+      "vi": [
+        "Gọi điện"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "女士",
+      "pinyin": "nv3shi4",
+      "vi": [
+        "Quý bà"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "坐",
+      "pinyin": "zuo4",
+      "vi": [
+        "Ngồi"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "请",
+      "pinyin": "qing3",
+      "vi": [
+        "Mời"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "服务员",
+      "pinyin": "fu2wu4yuan2",
+      "vi": [
+        "Nhân viên phục vụ"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "面包",
+      "pinyin": "mian4bao1",
+      "vi": [
+        "Bánh mì"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "这个",
+      "pinyin": "zhe4ge5",
+      "vi": [
+        "Cái này"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "给",
+      "pinyin": "gei3",
+      "vi": [
+        "Cho"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "杯",
+      "pinyin": "bei1",
+      "vi": [
+        "Cốc"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "要",
+      "pinyin": "yao4",
+      "vi": [
+        "Muốn"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "早饭",
+      "pinyin": "zao3fan4",
+      "vi": [
+        "Bữa sáng"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "鸡蛋",
+      "pinyin": "ji1dan4",
+      "vi": [
+        "Trứng gà"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "先生",
+      "pinyin": "xian1sheng5",
+      "vi": [
+        "Ông",
+        "ngài"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "一半",
+      "pinyin": "yi2ban4",
+      "vi": [
+        "Một nửa"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "茶",
+      "pinyin": "cha2",
+      "vi": [
+        "Trà"
+      ],
+      "enabled": true
+    }
+  ],
+  "14": [
+    {
+      "han": "火车",
+      "pinyin": "huo3che1",
+      "vi": [
+        "Tàu hỏa"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "开",
+      "pinyin": "kai1",
+      "vi": [
+        "Mở",
+        "lái"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "中午",
+      "pinyin": "zhong1wu3",
+      "vi": [
+        "Buổi trưa"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "上",
+      "pinyin": "shang4",
+      "vi": [
+        "Lên"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "有些",
+      "pinyin": "you3xie1",
+      "vi": [
+        "Một số"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "有的",
+      "pinyin": "you3de5",
+      "vi": [
+        "Có cái"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "了",
+      "pinyin": "le5",
+      "vi": [
+        "Trợ từ"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "汉语",
+      "pinyin": "han4yu3",
+      "vi": [
+        "Tiếng Hán"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "写",
+      "pinyin": "xie3",
+      "vi": [
+        "Viết"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "汉字",
+      "pinyin": "han4zi4",
+      "vi": [
+        "Chữ Hán"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "字",
+      "pinyin": "zi4",
+      "vi": [
+        "Chữ"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "听",
+      "pinyin": "ting1",
+      "vi": [
+        "Nghe"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "听见",
+      "pinyin": "ting1jian4",
+      "vi": [
+        "Nghe thấy"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "哪些",
+      "pinyin": "na3xie1",
+      "vi": [
+        "Những cái nào"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "都",
+      "pinyin": "dou1",
+      "vi": [
+        "Đều"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "说话",
+      "pinyin": "shuo1hua4",
+      "vi": [
+        "Nói chuyện"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "不要",
+      "pinyin": "bu2yao4",
+      "vi": [
+        "Đừng"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "明年",
+      "pinyin": "ming2nian2",
+      "vi": [
+        "Năm sau"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "上学",
+      "pinyin": "shang4xue2",
+      "vi": [
+        "Đi học"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "小学生",
+      "pinyin": "xiao3xue2sheng1",
+      "vi": [
+        "Học sinh tiểu học"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "小学",
+      "pinyin": "xiao3xue2",
+      "vi": [
+        "Tiểu học"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "中学生",
+      "pinyin": "zhong1xue2sheng1",
+      "vi": [
+        "Học sinh trung học"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "中学",
+      "pinyin": "zhong1xue2",
+      "vi": [
+        "Trung học"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "他们",
+      "pinyin": "ta1men5",
+      "vi": [
+        "Họ nam"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "她们",
+      "pinyin": "ta1men5",
+      "vi": [
+        "Họ nữ"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "它们",
+      "pinyin": "ta1men5",
+      "vi": [
+        "Chúng nó"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "晚",
+      "pinyin": "wan3",
+      "vi": [
+        "Muộn"
+      ],
+      "enabled": true
+    }
+  ],
+  "15": [
+    {
+      "han": "爱",
+      "pinyin": "ai4",
+      "vi": [
+        "Yêu"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "男朋友",
+      "pinyin": "nan2peng2you5",
+      "vi": [
+        "Bạn trai"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "年",
+      "pinyin": "nian2",
+      "vi": [
+        "Năm"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "几",
+      "pinyin": "ji3",
+      "vi": [
+        "Mấy"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "去年",
+      "pinyin": "qu4nian2",
+      "vi": [
+        "Năm ngoái"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "哪个",
+      "pinyin": "na3ge5",
+      "vi": [
+        "Cái nào"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "好玩儿",
+      "pinyin": "hao3wan2r5",
+      "vi": [
+        "Vui",
+        "thú vị"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "飞机",
+      "pinyin": "fei1ji1",
+      "vi": [
+        "Máy bay"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "要",
+      "pinyin": "yao4",
+      "vi": [
+        "Muốn",
+        "cần"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "小时",
+      "pinyin": "xiao3shi2",
+      "vi": [
+        "Giờ"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "接",
+      "pinyin": "jie1",
+      "vi": [
+        "Đón"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "机场",
+      "pinyin": "ji1chang3",
+      "vi": [
+        "Sân bay"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "家人",
+      "pinyin": "jia1ren2",
+      "vi": [
+        "Người nhà"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "住",
+      "pinyin": "zhu4",
+      "vi": [
+        "Ở",
+        "sống"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "时间",
+      "pinyin": "shi2jian1",
+      "vi": [
+        "Thời gian"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "早",
+      "pinyin": "zao3",
+      "vi": [
+        "Sớm"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "那",
+      "pinyin": "na4",
+      "vi": [
+        "Đó"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "号",
+      "pinyin": "hao4",
+      "vi": [
+        "Ngày",
+        "số"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "哪儿",
+      "pinyin": "na3r5",
+      "vi": [
+        "Ở đâu"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "见",
+      "pinyin": "jian4",
+      "vi": [
+        "Gặp"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "北京",
+      "pinyin": "bei3jing1",
+      "vi": [
+        "Bắc Kinh"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "大兴机场",
+      "pinyin": "da4xing1ji1chang3",
+      "vi": [
+        "Sân bay Đại Hưng"
+      ],
+      "enabled": true
+    },
+    {
+      "han": "西安",
+      "pinyin": "xi1an1",
+      "vi": [
+        "Tây An"
+      ],
+      "enabled": true
+    }
+  ]
+}
